@@ -7,7 +7,7 @@
       "request": "launch",
       "args": [],
       "cwd": "/Users/savagevictor/Desktop/CS 211/Project1",
-      "program": "/Users/savagevictor/Desktop/CS 211/Project1/build/Debug/outDebug"
+      "program": "/Users/savagevictor/Desktop/CS 211/Project1/a.out"
     }
   ]
 }
